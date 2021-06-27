@@ -19,22 +19,22 @@ injectionModel
 {
     model
     {
-        volumeTotal     60;
-        massInjected    7.08613e-05;
+        volumeTotal     0.05;
+        massInjected    8.53432e-08;
         nInjections     530;
-        parcelsAddedTotal 56;
-        timeStep0       0.0523;
+        parcelsAddedTotal 54;
+        timeStep0       0.053;
     }
 }
 
 patchInteractionModel
 {
-    escapedParcels  0;
-    escapedMass     0;
+    escapedParcels  5;
+    escapedMass     7.90215e-09;
     localInteraction
     {
-        nEscape         3 ( 1 ( 0 ) 1 ( 0 ) 1 ( 0 ) );
-        massEscape      3 ( 1 ( 0 ) 1 ( 0 ) 1 ( 0 ) );
+        nEscape         3 ( 1 ( 0 ) 1 ( 0 ) 1 ( 5 ) );
+        massEscape      3 ( 1 ( 0 ) 1 ( 0 ) 1 ( 7.90215e-09 ) );
         nStick          3 ( 1 ( 0 ) 1 ( 0 ) 1 ( 0 ) );
         massStick       3 ( 1 ( 0 ) 1 ( 0 ) 1 ( 0 ) );
     }

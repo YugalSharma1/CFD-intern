@@ -21,7 +21,6 @@ dimensions      [0 0 0 0 0 0 0];
 internalField   nonuniform List<scalar> 
 1900
 (
-0.999597
 1
 1
 1
@@ -31,9 +30,7 @@ internalField   nonuniform List<scalar>
 1
 1
 1
-0.999866
 1
-0.999866
 1
 1
 1
@@ -42,7 +39,6 @@ internalField   nonuniform List<scalar>
 1
 1
 1
-0.999866
 1
 1
 1
@@ -51,9 +47,7 @@ internalField   nonuniform List<scalar>
 1
 1
 1
-0.999731
 1
-0.999866
 1
 1
 1
@@ -61,7 +55,6 @@ internalField   nonuniform List<scalar>
 1
 1
 1
-0.999866
 1
 1
 1
@@ -73,7 +66,6 @@ internalField   nonuniform List<scalar>
 1
 1
 1
-0.999866
 1
 1
 1
@@ -82,7 +74,6 @@ internalField   nonuniform List<scalar>
 1
 1
 1
-0.999866
 1
 1
 1
@@ -92,7 +83,6 @@ internalField   nonuniform List<scalar>
 1
 1
 1
-0.999866
 1
 1
 1
@@ -101,7 +91,6 @@ internalField   nonuniform List<scalar>
 1
 1
 1
-0.999731
 1
 1
 1
@@ -111,7 +100,18 @@ internalField   nonuniform List<scalar>
 1
 1
 1
-0.999731
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
 1
 1
 1
@@ -1933,7 +1933,7 @@ boundaryField
     inlet
     {
         type            calculated;
-        value           nonuniform List<scalar> 10(0.999597 0.999866 1 0.999731 0.999866 1 1 1 0.999731 0.999731);
+        value           uniform 1;
     }
     outlet
     {
@@ -1946,7 +1946,6 @@ boundaryField
         value           nonuniform List<scalar> 
 228
 (
-0.999597
 1
 1
 1
@@ -2064,7 +2063,8 @@ boundaryField
 1
 1
 1
-0.999731
+1
+1
 1
 1
 1

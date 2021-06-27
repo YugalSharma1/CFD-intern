@@ -1,0 +1,20 @@
+[33mcommit b451dbd9bfe5d0db16d3e2a629da63fdd35cff94[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: YugalSharma1 <yugal@DESKTOP-EMUMUUG.localdomain>
+Date:   Sat Jun 26 21:11:34 2021 +0530
+
+    Revert "just testing git commit, turnbulrcr ko off kra ,"
+    
+    This reverts commit 01ca5b2d5cec590eb463f732c21be8f46e7e4acf.
+
+[33mcommit 01ca5b2d5cec590eb463f732c21be8f46e7e4acf[m
+Author: YugalSharma1 <yugal@DESKTOP-EMUMUUG.localdomain>
+Date:   Sat Jun 26 21:02:04 2021 +0530
+
+    just testing git commit, turnbulrcr ko off kra ,
+    kisi file ko commit krne se pehle, use add krna padega staging list mei
+
+[33mcommit d79bf06ae9c808d3d1035981ab6f469c3490aa9f[m
+Author: YugalSharma1 <yugal@DESKTOP-EMUMUUG.localdomain>
+Date:   Sat Jun 26 20:58:47 2021 +0530
+
+    first commit

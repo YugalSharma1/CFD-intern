@@ -38,7 +38,7 @@ solvers
     //     tolerance       1e-05;
     //     relTol          0;
     // }
-    "(U|k|omega).*"
+    "(U|k|omega|epsilon).*"
     {
         solver          smoothSolver;
         smoother        symGaussSeidel;
@@ -46,7 +46,7 @@ solvers
         relTol          0.1;
     }
 
-    "(U|k|omega).*Final"
+    "(U|k|omega|epsilon).*Final"
     {
         $U;
         tolerance       1e-05;

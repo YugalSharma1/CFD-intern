@@ -19,7 +19,7 @@ geometry        coordinates;
 
 processor0
 {
-    particleCount   68;
+    particleCount   54;
 }
 
 

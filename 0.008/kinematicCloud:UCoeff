@@ -21,8 +21,8 @@ dimensions      [1 0 0 0 0 0 0];
 value           nonuniform List<scalar> 
 1900
 (
-2.91549e-10
 0
+5.02862e-12
 0
 0
 0
@@ -31,7 +31,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-3.43649e-10
 0
 0
 0
@@ -41,7 +40,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-3.46691e-10
 0
 0
 0
@@ -50,8 +48,8 @@ value           nonuniform List<scalar>
 0
 0
 0
+5.91159e-12
 0
-3.44569e-10
 0
 0
 0
@@ -71,7 +69,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-3.45611e-10
 0
 0
 0
@@ -81,17 +78,16 @@ value           nonuniform List<scalar>
 0
 0
 0
-3.4859e-10
 0
 0
 0
 0
 0
 0
+6.17235e-12
 0
 0
 0
-3.47634e-10
 0
 0
 0
@@ -100,6 +96,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+6.04979e-12
 0
 0
 0
@@ -227,6 +224,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+5.64743e-12
 0
 0
 0
@@ -424,6 +422,8 @@ value           nonuniform List<scalar>
 0
 0
 0
+3.7449e-12
+2.22982e-12
 0
 0
 0
@@ -621,7 +621,7 @@ value           nonuniform List<scalar>
 0
 0
 0
-0
+5.87248e-12
 0
 0
 0

@@ -18,9 +18,9 @@ FoamFile
 simulationType  RAS;
 RAS
 {
-    RASModel kEpsilon;//kOmegaSST;
+    RASModel kOmegaSST;
 
-    turbulence off;
+    turbulence on;
     
     printCoeffs on;
     

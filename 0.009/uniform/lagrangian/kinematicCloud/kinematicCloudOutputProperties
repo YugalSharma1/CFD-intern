@@ -19,8 +19,8 @@ injectionModel
 {
     model
     {
-        volumeTotal     60;
-        massInjected    1.0123e-05;
+        volumeTotal     0.05;
+        massInjected    1.26434e-08;
         nInjections     90;
         parcelsAddedTotal 8;
         timeStep0       0.0082;

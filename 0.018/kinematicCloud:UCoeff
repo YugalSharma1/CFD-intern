@@ -21,19 +21,18 @@ dimensions      [1 0 0 0 0 0 0];
 value           nonuniform List<scalar> 
 1900
 (
-7.13598e-10
 0
 0
+6.26973e-12
 0
 0
 0
+3.33637e-12
 0
 0
 0
 0
-3.44176e-10
 0
-3.34435e-10
 0
 0
 0
@@ -42,7 +41,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-3.37503e-10
 0
 0
 0
@@ -51,9 +49,7 @@ value           nonuniform List<scalar>
 0
 0
 0
-6.86259e-10
 0
-3.35413e-10
 0
 0
 0
@@ -61,7 +57,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-3.48317e-10
 0
 0
 0
@@ -69,11 +64,12 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.56405e-13
+5.87663e-12
 0
 0
 0
 0
-3.36576e-10
 0
 0
 0
@@ -82,7 +78,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-3.39331e-10
 0
 0
 0
@@ -92,7 +87,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-3.38407e-10
 0
 0
 0
@@ -101,7 +95,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-6.8313e-10
 0
 0
 0
@@ -111,7 +104,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-4.47129e-10
 0
 0
 0
@@ -124,8 +116,10 @@ value           nonuniform List<scalar>
 0
 0
 0
+3.67538e-12
 0
 0
+2.98072e-12
 0
 0
 0
@@ -135,6 +129,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+4.25766e-12
 0
 0
 0
@@ -228,6 +223,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+5.68144e-12
 0
 0
 0
@@ -243,6 +239,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+3.31923e-12
 0
 0
 0
@@ -346,6 +343,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+3.22123e-12
 0
 0
 0
@@ -427,6 +425,8 @@ value           nonuniform List<scalar>
 0
 0
 0
+7.54985e-12
+3.4093e-12
 0
 0
 0
@@ -641,6 +641,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+3.27424e-12
 0
 0
 0
@@ -733,6 +734,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+3.97642e-12
 0
 0
 0
@@ -834,6 +836,8 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.53655e-12
+8.5629e-13
 0
 0
 0
@@ -924,7 +928,9 @@ value           nonuniform List<scalar>
 0
 0
 0
+5.10969e-12
 0
+4.9115e-12
 0
 0
 0
@@ -1308,13 +1314,7 @@ value           nonuniform List<scalar>
 0
 0
 0
-0
-0
-0
-0
-0
-0
-0
+3.11758e-12
 0
 0
 0
