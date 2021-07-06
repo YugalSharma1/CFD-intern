@@ -29,12 +29,12 @@ injectionModel
 
 patchInteractionModel
 {
-    escapedParcels  44;
-    escapedMass     6.95389e-08;
+    escapedParcels  0;
+    escapedMass     0;
     localInteraction
     {
-        nEscape         3 ( 1 ( 0 ) 1 ( 0 ) 1 ( 44 ) );
-        massEscape      3 ( 1 ( 0 ) 1 ( 0 ) 1 ( 6.9539e-08 ) );
+        nEscape         3 ( 1 ( 0 ) 1 ( 0 ) 1 ( 0 ) );
+        massEscape      3 ( 1 ( 0 ) 1 ( 0 ) 1 ( 0 ) );
         nStick          3 ( 1 ( 0 ) 1 ( 0 ) 1 ( 0 ) );
         massStick       3 ( 1 ( 0 ) 1 ( 0 ) 1 ( 0 ) );
     }

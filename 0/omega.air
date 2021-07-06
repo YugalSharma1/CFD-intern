@@ -30,7 +30,7 @@ boundaryField
 
     outlet
     {
-        type            zeroGradient;//inletOutlet;
+        type            zeroGradient;//inletOutlet; caused phi error
         inletValue      $internalField;
         value           $internalField;
     }
