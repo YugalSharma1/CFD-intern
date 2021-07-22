@@ -324,7 +324,7 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.67554e-12
+3.25672e-12
 0
 0
 0
@@ -522,7 +522,7 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.72492e-12
+3.32795e-12
 0
 0
 0
@@ -823,9 +823,8 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.41127e-12
-2.78705e-13
 0
+3.27457e-12
 0
 0
 0
@@ -1123,8 +1122,8 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.70589e-12
 0
+3.29998e-12
 0
 0
 0
@@ -1421,7 +1420,8 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.73572e-12
+0
+3.35405e-12
 0
 0
 0

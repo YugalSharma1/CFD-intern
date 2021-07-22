@@ -55,12 +55,12 @@ value           nonuniform List<scalar>
 0
 0
 0
-2.06374e-12
 0
 0
 0
 0
 0
+1.97785e-12
 0
 0
 0
@@ -72,7 +72,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.95963e-12
 0
 0
 0
@@ -80,7 +79,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.5974e-12
 0
 0
 0
@@ -108,6 +106,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.87166e-12
 0
 0
 0
@@ -168,7 +167,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.79184e-12
 0
 0
 0
@@ -182,12 +180,10 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.71296e-12
 0
 0
 0
 0
-1.69535e-12
 0
 0
 0
@@ -195,6 +191,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.73056e-12
 0
 0
 0
@@ -218,6 +215,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.73841e-12
 0
 0
 0
@@ -282,13 +280,13 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.6824e-12
 0
 0
 0
 0
 0
 0
+1.88357e-12
 0
 0
 0
@@ -309,7 +307,9 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.8067e-12
 0
+1.83178e-12
 0
 0
 0
@@ -372,7 +372,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.70235e-12
 0
 0
 0
@@ -386,22 +385,20 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.60655e-12
 0
 0
 0
 0
-1.60993e-12
 0
 0
 0
+1.9348e-12
 0
 0
 0
 0
 0
 0
-1.61091e-12
 0
 0
 0
@@ -488,7 +485,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.55546e-12
 0
 0
 0
@@ -520,9 +516,11 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.86227e-12
 0
 0
 0
+1.88432e-12
 0
 0
 0
@@ -577,8 +575,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.52879e-12
-1.44944e-12
 0
 0
 0
@@ -591,18 +587,14 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.24663e-12
-2.35862e-13
 0
 0
 0
-1.50648e-12
 0
 0
 0
 0
 0
-1.43472e-12
 0
 0
 0
@@ -610,6 +602,8 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.4589e-12
+5.29662e-13
 0
 0
 0
@@ -680,10 +674,8 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.31526e-12
 0
 0
-1.43494e-12
 0
 0
 0
@@ -712,6 +704,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.02627e-12
 0
 0
 0
@@ -720,6 +713,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.97752e-12
 0
 0
 0
@@ -772,17 +766,14 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.29261e-12
 0
 0
 0
 0
-1.24676e-12
 0
 0
 0
 0
-1.20351e-12
 0
 0
 0
@@ -798,7 +789,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.21968e-12
 0
 0
 0
@@ -812,14 +802,17 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.1526e-12
 0
 0
 0
 0
+2.08476e-12
 0
 0
 0
 0
+2.09139e-12
 0
 0
 0
@@ -874,7 +867,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.31123e-12
 0
 0
 0
@@ -882,14 +874,12 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.34089e-12
 0
 0
 0
 0
 0
 0
-1.35334e-12
 0
 0
 0
@@ -898,17 +888,17 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.4056e-12
 0
 0
 0
 0
-1.39113e-12
 0
 0
+2.33477e-12
 0
 0
 0
+2.31553e-12
 0
 0
 0
@@ -921,6 +911,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.19932e-12
 0
 0
 0
@@ -975,7 +966,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.34875e-12
 0
 0
 0
@@ -994,7 +984,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.43223e-12
 0
 0
 0
@@ -1010,6 +999,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.38853e-12
 0
 0
 0
@@ -1084,7 +1074,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.39244e-12
 0
 0
 0
@@ -1126,6 +1115,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.25128e-12
 0
 0
 0
@@ -1176,7 +1166,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.30887e-12
 0
 0
 0
@@ -1201,9 +1190,7 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.37146e-12
 0
-1.39484e-12
 0
 0
 0
@@ -1214,6 +1201,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.26804e-12
 0
 0
 0
@@ -1279,11 +1267,8 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.23712e-12
 0
-1.27933e-12
 0
-1.26965e-12
 0
 0
 0
@@ -1321,11 +1306,14 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.16148e-12
 0
 0
+2.08764e-12
 0
 0
 0
+2.06691e-12
 0
 0
 0
@@ -1373,7 +1361,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.43935e-12
 0
 0
 0
@@ -1388,10 +1375,7 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.35879e-12
 0
-1.4e-12
-1.35382e-12
 0
 0
 0
@@ -1412,6 +1396,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.0972e-12
 0
 0
 0
@@ -1487,7 +1472,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.51884e-12
 0
 0
 0
@@ -1501,7 +1485,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.4641e-12
 0
 0
 0
@@ -1516,6 +1499,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.98534e-12
 0
 0
 0
@@ -1533,7 +1517,9 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.89683e-12
 0
+1.9078e-12
 0
 0
 0
@@ -1571,11 +1557,9 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.66016e-12
 0
 0
 0
-1.57577e-12
 0
 0
 0
@@ -1586,18 +1570,15 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.55199e-12
 0
 0
 0
-1.58831e-12
 0
 0
 0
 0
 0
 0
-1.58038e-12
 0
 0
 0
@@ -1610,6 +1591,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.97875e-12
 0
 0
 0
@@ -1697,7 +1679,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.58882e-12
 0
 0
 0
@@ -1736,6 +1717,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.81813e-12
 0
 0
 0
@@ -1787,8 +1769,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.64967e-12
-1.67223e-12
 0
 0
 0
@@ -1838,6 +1818,8 @@ value           nonuniform List<scalar>
 0
 0
 0
+3.45382e-12
+9.40747e-14
 0
 0
 0
@@ -1875,7 +1857,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.73395e-12
 0
 0
 0
@@ -1887,8 +1868,6 @@ value           nonuniform List<scalar>
 0
 0
 0
-1.68591e-12
-1.6667e-12
 0
 0
 0
@@ -1917,6 +1896,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.77744e-12
 0
 0
 0
@@ -1937,6 +1917,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.72544e-12
 0
 0
 0
@@ -2344,6 +2325,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.7118e-12
 0
 0
 0
@@ -2361,6 +2343,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.17425e-12
 0
 0
 0
@@ -2545,6 +2528,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.81507e-12
 0
 0
 0
@@ -2553,6 +2537,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.81016e-12
 0
 0
 0
@@ -2563,6 +2548,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.24709e-12
 0
 0
 0
@@ -2755,6 +2741,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.8965e-12
 0
 0
 0
@@ -2837,6 +2824,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.09411e-12
 0
 0
 0
@@ -2854,6 +2842,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.9662e-12
 0
 0
 0
@@ -2864,6 +2853,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.34616e-12
 0
 0
 0
@@ -2945,6 +2935,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.65469e-12
 0
 0
 0
@@ -3056,10 +3047,12 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.37703e-12
 0
 0
 0
 0
+2.42779e-12
 0
 0
 0
@@ -3229,11 +3222,13 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.96134e-12
 0
 0
 0
 0
 0
+1.56839e-12
 0
 0
 0
@@ -3330,6 +3325,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.85571e-12
 0
 0
 0
@@ -3350,6 +3346,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.52129e-12
 0
 0
 0
@@ -3527,6 +3524,7 @@ value           nonuniform List<scalar>
 0
 0
 0
+1.74922e-12
 0
 0
 0
@@ -3538,6 +3536,8 @@ value           nonuniform List<scalar>
 0
 0
 0
+2.32589e-12
+2.37862e-12
 0
 0
 0

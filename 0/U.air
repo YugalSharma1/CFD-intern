@@ -23,7 +23,7 @@ boundaryField
     inlet
     {
         type            fixedValue;
-        value           uniform (9.39 0 0);
+        value           uniform (18.78 0 0);
         
         // type               mapped;
         // value              uniform (9.39 0 0);

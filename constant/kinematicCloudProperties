@@ -50,7 +50,7 @@ constantProperties
 {
     rho0            8800; //1000;
 
-    alphaMax        5e-9;//0.9;
+    alphaMax        0.9; //5e-9;//0.9;
 }
 
 subModels
@@ -92,7 +92,7 @@ subModels
                 type        fixedValue;
                 fixedValueDistribution
                 {
-                value     70e-6; // 650e-6;
+                value     70e-6;//70e-6; // 650e-6;
                 }
                 // normalDistribution
                 // {
@@ -107,7 +107,7 @@ subModels
                 // }
             }
             flowRateProfile constant 1;
-            massTotal       0;
+            massTotal       0.079e-05;
             SOI 0;
             duration 0.05;
         }
