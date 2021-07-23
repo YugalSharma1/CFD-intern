@@ -4,8 +4,8 @@
 
 ### OpenFOAM ###
 # Timestep directories
-0.*
-[1-9]*
+0.*/
+[1-9]*/
 
 # Fields that must get ignored
 */phi*
@@ -22,6 +22,7 @@ log.*
 *.foam
 *.OpenFOAM
 *.pvsm
+*.pvd
 
 # mesh data that is no dictionary
 constant/polyMesh/points*
