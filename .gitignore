@@ -6,6 +6,7 @@
 # Timestep directories
 /0.*/
 /[1-9]*/
+dynamicCode/
 
 # Fields that must get ignored
 */phi*
